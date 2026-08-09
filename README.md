@@ -4,7 +4,7 @@ My personal developer portfolio built with Next.js, React, TypeScript and Tailwi
 
 ## 🚀 Live Website
 
-👉 https://your-vercel-url.vercel.app
+👉 https://portfolio-nu-nine-8m9g1qkl9i.vercel.app/
 
 ## 🛠️ Tech Stack
 
